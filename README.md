@@ -1,5 +1,3 @@
----
-
 **Abstract:**
 
 This project focuses on the development of a robust and accurate stock market prediction model using advanced machine learning and time series analysis techniques. The project encompasses a comprehensive approach, including data collection from reliable sources, exploratory data analysis to understand market dynamics, and feature engineering to capture relevant financial indicators and trends.
@@ -13,8 +11,6 @@ Insights gained from the project encompass feature importance analysis, identifi
 This abstract highlights the project's comprehensive nature, detailing the methodologies used, insights gained, and the project's significance in the realm of stock market prediction within the data science domain.
 
 **Keywords:** Regression Models, Exploratory Data Analysis, Hyperparameter Tuning
-
----
 
 **1. Introduction:**
 
